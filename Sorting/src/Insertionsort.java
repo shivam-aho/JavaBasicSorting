@@ -21,7 +21,7 @@ int aray[]={4, 2, 9, 6, 23, 12, 34, 0, 1};
 				j--;
 			}
 			
-			System.out.println(Arrays.toString(aray));
+			//System.out.println(Arrays.toString(aray));
 		}
 		System.out.println(Arrays.toString(aray));
 	}
